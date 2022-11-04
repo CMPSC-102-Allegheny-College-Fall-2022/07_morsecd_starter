@@ -36,5 +36,9 @@ Decode the following line: "-.-- .- -... -... .- / -.. .- -... -... .- / -.. ---
 
 TODO
 
+#### Q6. 
+If you added more code to the project, what did you add?
+
+TODO
 
 (Did you remember to add your name to the top of this document?)
